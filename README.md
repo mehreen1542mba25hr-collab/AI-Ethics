@@ -1,6 +1,9 @@
 AI-Ethics
+
 RAG model using Flowwise for AI Ethics research
+
 Overview
+
 This project is a Retrieval-Augmented Generation (RAG) system built using Flowise.
 
 It answers questions based on uploaded documents related to:
@@ -8,7 +11,7 @@ It answers questions based on uploaded documents related to:
 - Bias in AI
 - Responsible AI
 
-## Tools Used
+ Tools Used
 - Flowise
 - Mistral AI
 - Google Gemini Embeddings
